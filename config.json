@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configfrocess",
+        "uuid": 16695789,
+        "checksum": "ul2xgs"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
